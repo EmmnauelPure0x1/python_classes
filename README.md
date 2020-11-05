@@ -31,5 +31,10 @@
 - Class Instantiation:
     - refer to ```cat.py``` & ```dog_class.py```
     - Class Instance attribute modification
-
-
+    
+## Class Initialisation
+- __init__(self)
+- attributes
+- functions
+- __name__ and __main__
+- getters and setters
